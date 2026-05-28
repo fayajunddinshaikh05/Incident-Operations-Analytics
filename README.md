@@ -85,7 +85,7 @@ Power BI and AI-driven insights.
 ---
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Incident Dashboard](incident_dashboard_screenshot.png)
 
 ---
 
